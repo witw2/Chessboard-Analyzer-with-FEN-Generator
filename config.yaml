@@ -1,0 +1,9 @@
+# Ścieżki do folderów ze zdjęciami
+train: ../boardsYOLO/train/images
+val: ../boardsYOLO/valid/images
+
+# Liczba klas
+nc: 1
+
+# Nazwy klas (w naszym przypadku tylko jedna)
+names: ['board']
