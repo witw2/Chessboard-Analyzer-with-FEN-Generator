@@ -39,7 +39,6 @@ This project is a Python-based application that detects chessboards and pieces f
 ## Usage
 1. Run the Flask application:
    python main.py
-   ```
 2. Open your browser and navigate to `http://127.0.0.1:5000/`.
 3. Paste a screenshot of a chessboard to analyze it.
 4. Copy the generated FEN or continue analysis on Chess.com.
